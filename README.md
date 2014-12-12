@@ -1,10 +1,12 @@
 # otoge_burn
 
-[https://github.com/remore/burn]  を用いて作成したターミナルで出来る音ゲーです。
+https://github.com/remore/burn  を用いて作成したターミナルで出来る音ゲーです。
 
-[http://blog.hatena.ne.jp/shiro_goma/shiro-goma.hatenablog.com/edit?entry=8454420450076800788]  にて実装したものです。
+http://blog.hatena.ne.jp/shiro_goma/shiro-goma.hatenablog.com/edit?entry=8454420450076800788  にて実装したものです。
 
 burnを改造した関係でGemfileが機能していません...
+
+なので一旦vendor/bundleのライブラリ群もフルコミットしています。
 
 参考までに使用しているバージョンに関してはGemfile.lockをご確認くださいませ。
 
